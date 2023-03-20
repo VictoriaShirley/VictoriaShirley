@@ -14,8 +14,8 @@ Olá, meu nome é Victória Shirley! 👩‍💻
     <img align="center" alt="Vick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Vick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Vick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-</div>
+    <img align="right" alt="Vick-pic" src="https://user-images.githubusercontent.com/102524394/226324267-55fdf85f-4609-43b4-8b45-0661352cdea7.png"
+ </div>
   
   ##
  
